@@ -1,6 +1,6 @@
 # Recommendation system builds by reinforcement learning algorithm
 
-## SLR
+## ILLUSTRATION
 ![Architecture](./src/img.png)
 
 ## INSTALLATION
