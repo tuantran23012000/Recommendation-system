@@ -17,5 +17,5 @@ Open and run file `train.ipynb`
 Open and run file `test.ipynb`
 
 ## REFERENCE
-Reimplementation of this article: Deep Reinforcement Learning for List-wise Recommendations - [https://arxiv.org/abs/1801.00209]()
+Reimplementation of this article: Deep Reinforcement Learning for List-wise Recommendations - [https://arxiv.org/pdf/1801.00209.pdf]()
 
