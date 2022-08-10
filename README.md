@@ -9,7 +9,7 @@
     pip install -r requirements.txt
 
 ## DATASETS
-Downloads and unzips datasets : [https://drive.google.com/file/d/1h5DEIT-JYeR5e8D8BK6dny5zYCwth1rl/view?usp=sharing]()
+Downloads and unzips datasets : [https://drive.google.com/drive/folders/1c08a5ZAyn77ZzSrb3ZnZY-gDC76T9ck4?usp=sharing]()
 ## TRAINING
 Open and run file `train.ipynb` 
 
